@@ -10,4 +10,24 @@ https://www.parceljs.cn/
 
 cnpm install -g parcel-bundler
 parcel src/index.html
+
+parcel build src/index.html
+```
+
+```
+parcel --help
+Usage: parcel <command> [options]
+
+Options:
+  -V, --version               output the version number
+  -h, --help                  output usage information
+
+Commands:
+  serve [options] [input...]  starts a development server
+  watch [options] [input...]  starts the bundler in watch mode
+  build [options] [input...]  bundles for production
+  info                        Prints debugging information about the local environment
+  help [command]              display help information for a command
+
+  Run `parcel help <command>` for more information on specific commands
 ```
