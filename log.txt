@@ -1,0 +1,104 @@
+cnpm install -g parcel-bundler
+Downloading parcel-bundler to /usr/local/lib/node_modules/parcel-bundler_tmp
+Copying /usr/local/lib/node_modules/parcel-bundler_tmp/_parcel-bundler@1.12.5@parcel-bundler to /usr/local/lib/node_modules/parcel-bundler
+Installing parcel-bundler's dependencies to /usr/local/lib/node_modules/parcel-bundler/node_modules
+[1/59] clone@^2.1.1 installed at node_modules/_clone@2.1.2@clone
+[2/59] @iarna/toml@^2.2.0 installed at node_modules/_@iarna_toml@2.2.5@@iarna/toml
+[3/59] command-exists@^1.2.6 installed at node_modules/_command-exists@1.2.9@command-exists
+[4/59] commander@^2.11.0 installed at node_modules/_commander@2.20.3@commander
+[5/59] dotenv@^5.0.0 installed at node_modules/_dotenv@5.0.1@dotenv
+[6/59] dotenv-expand@^5.1.0 installed at node_modules/_dotenv-expand@5.1.0@dotenv-expand
+[7/59] filesize@^3.6.0 installed at node_modules/_filesize@3.6.1@filesize
+[8/59] get-port@^3.2.0 installed at node_modules/_get-port@3.2.0@get-port
+[9/59] @babel/parser@^7.4.4 installed at node_modules/_@babel_parser@7.17.0@@babel/parser
+[10/59] @babel/template@^7.4.4 installed at node_modules/_@babel_template@7.16.7@@babel/template
+[11/59] is-url@^1.2.2 installed at node_modules/_is-url@1.2.4@is-url
+[12/59] envinfo@^7.3.1 installed at node_modules/_envinfo@7.8.1@envinfo
+[13/59] postcss-value-parser@^3.3.1 installed at node_modules/_postcss-value-parser@3.3.1@postcss-value-parser
+[14/59] posthtml-render@^1.1.3 installed at node_modules/_posthtml-render@1.4.0@posthtml-render
+[15/59] semver@^5.4.1 installed at node_modules/_semver@5.7.1@semver
+[16/59] posthtml@^0.11.2 installed at node_modules/_posthtml@0.11.6@posthtml
+[17/59] v8-compile-cache@^2.0.0 installed at node_modules/_v8-compile-cache@2.3.0@v8-compile-cache
+[18/59] serialize-to-js@^3.0.0 installed at node_modules/_serialize-to-js@3.1.1@serialize-to-js
+[19/59] node-forge@^0.10.0 installed at node_modules/_node-forge@0.10.0@node-forge
+[20/59] source-map@0.6.1 installed at node_modules/_source-map@0.6.1@source-map
+[21/59] core-js@^2.6.5 installed at node_modules/_core-js@2.6.12@core-js
+[22/59] @parcel/utils@^1.11.0 installed at node_modules/_@parcel_utils@1.11.0@@parcel/utils
+[23/59] ansi-to-html@^0.6.4 installed at node_modules/_ansi-to-html@0.6.15@ansi-to-html
+[24/59] @babel/plugin-transform-flow-strip-types@^7.4.4 installed at node_modules/_@babel_plugin-transform-flow-strip-types@7.16.7@@babel/plugin-transform-flow-strip-types
+[25/59] @babel/plugin-transform-react-jsx@^7.0.0 installed at node_modules/_@babel_plugin-transform-react-jsx@7.16.7@@babel/plugin-transform-react-jsx
+[26/59] @babel/generator@^7.4.4 installed at node_modules/_@babel_generator@7.17.0@@babel/generator
+[27/59] postcss@^7.0.11 installed at node_modules/_postcss@7.0.39@postcss
+[28/59] is-glob@^4.0.0 installed at node_modules/_is-glob@4.0.3@is-glob
+[29/59] @babel/runtime@^7.4.4 installed at node_modules/_@babel_runtime@7.17.2@@babel/runtime
+[30/59] @babel/types@^7.4.4 installed at node_modules/_@babel_types@7.17.0@@babel/types
+[31/59] browserslist@^4.1.0 installed at node_modules/_browserslist@4.19.1@browserslist
+[32/59] opn@^5.1.0 installed at node_modules/_opn@5.5.0@opn
+[33/59] json5@^1.0.1 installed at node_modules/_json5@1.0.1@json5
+[34/59] mkdirp@^0.5.1 installed at node_modules/_mkdirp@0.5.5@mkdirp
+[35/59] ws@^5.1.1 installed at node_modules/_ws@5.2.3@ws
+[36/59] @parcel/workers@^1.11.0 installed at node_modules/_@parcel_workers@1.11.0@@parcel/workers
+[37/59] @babel/code-frame@^7.0.0 installed at node_modules/_@babel_code-frame@7.16.7@@babel/code-frame
+[38/59] @babel/traverse@^7.4.4 installed at node_modules/_@babel_traverse@7.17.0@@babel/traverse
+[39/59] cross-spawn@^6.0.4 installed at node_modules/_cross-spawn@6.0.5@cross-spawn
+fsevents@1.2.13 download from binary mirror: {"host":"https://cdn.npmmirror.com/binaries/fsevents"}
+[40/59] babylon-walk@^1.0.2 installed at node_modules/_babylon-walk@1.0.2@babylon-walk
+[41/59] js-yaml@^3.10.0 installed at node_modules/_js-yaml@3.14.1@js-yaml
+[42/59] fast-glob@^2.2.2 installed at node_modules/_fast-glob@2.2.7@fast-glob
+[43/59] deasync@^0.1.14 installed at node_modules/_deasync@0.1.24@deasync
+[44/59] terser@^3.7.3 installed at node_modules/_terser@3.17.0@terser
+[45/59] chalk@^2.1.0 installed at node_modules/_chalk@2.4.2@chalk
+[46/59] css-modules-loader-core@^1.1.0 installed at node_modules/_css-modules-loader-core@1.1.0@css-modules-loader-core
+[47/59] @babel/core@^7.4.4 installed at node_modules/_@babel_core@7.17.2@@babel/core
+[48/59] posthtml-parser@^0.4.0 installed at node_modules/_posthtml-parser@0.4.2@posthtml-parser
+[49/59] @parcel/watcher@^1.12.1 installed at node_modules/_@parcel_watcher@1.12.1@@parcel/watcher
+[50/59] serve-static@^1.12.4 installed at node_modules/_serve-static@1.14.2@serve-static
+[51/59] resolve@^1.4.0 installed at node_modules/_resolve@1.22.0@resolve
+[52/59] @babel/plugin-transform-modules-commonjs@^7.4.4 installed at node_modules/_@babel_plugin-transform-modules-commonjs@7.16.8@@babel/plugin-transform-modules-commonjs
+[53/59] @parcel/fs@^1.11.0 installed at node_modules/_@parcel_fs@1.11.0@@parcel/fs
+[54/59] node-libs-browser@^2.0.0 installed at node_modules/_node-libs-browser@2.2.1@node-libs-browser
+[55/59] cssnano@^4.0.0 installed at node_modules/_cssnano@4.1.11@cssnano
+[56/59] micromatch@^3.0.4 installed at node_modules/_micromatch@3.1.10@micromatch
+[57/59] @babel/preset-env@^7.4.4 installed at node_modules/_@babel_preset-env@7.16.11@@babel/preset-env
+[58/59] @parcel/logger@^1.11.1 installed at node_modules/_@parcel_logger@1.11.1@@parcel/logger
+[59/59] htmlnano@^0.2.2 installed at node_modules/_htmlnano@0.2.9@htmlnano
+execute post install 4 scripts...
+[1/4] scripts.postinstall core-js@^2.6.5 run "node -e \"try{require('./postinstall')}catch(e){}\"", root: "/usr/local/lib/node_modules/parcel-bundler/node_modules/_core-js@2.6.12@core-js"
+Thank you for using core-js ( https://github.com/zloirock/core-js ) for polyfilling JavaScript standard library!
+
+The project needs your help! Please consider supporting of core-js on Open Collective or Patreon:
+> https://opencollective.com/core-js
+> https://www.patreon.com/zloirock
+
+Also, the author of core-js ( https://github.com/zloirock ) is looking for a good job -)
+
+[1/4] scripts.postinstall core-js@^2.6.5 finished in 187ms
+[2/4] scripts.install deasync@^0.1.14 run "node ./build.js", root: "/usr/local/lib/node_modules/parcel-bundler/node_modules/_deasync@0.1.24@deasync"
+`darwin-x64-node-12` exists; testing
+Binary is fine; exiting
+[2/4] scripts.install deasync@^0.1.14 finished in 1s
+[3/4] scripts.install @parcel/watcher@1.12.1 › chokidar@2.1.8 › fsevents@^1.2.7 run "node install.js", root: "/usr/local/lib/node_modules/parcel-bundler/node_modules/_fsevents@1.2.13@fsevents"
+  SOLINK_MODULE(target) Release/.node
+  CXX(target) Release/obj.target/fse/fsevents.o
+  SOLINK_MODULE(target) Release/fse.node
+[3/4] scripts.install @parcel/watcher@1.12.1 › chokidar@2.1.8 › fsevents@^1.2.7 finished in 25s
+[4/4] scripts.postinstall parcel-bundler@1.12.5 run "node -e \"console.log('\\u001b[35m\\u001b[1mLove Parcel? You can now donate to our open collective:\\u001b[22m\\u001b[39m\\n > \\u001b[34mhttps://opencollective.com/parcel/donate\\u001b[0m')\"", root: "/usr/local/lib/node_modules/parcel-bundler"
+Love Parcel? You can now donate to our open collective:
+ > https://opencollective.com/parcel/donate
+[4/4] scripts.postinstall parcel-bundler@1.12.5 finished in 113ms
+peerDependencies WARNING htmlnano@0.2.9 › terser@^5.6.1 requires a peer of acorn@^8.5.0 but acorn@7.4.1 was installed
+deprecate core-js@^2.6.5 core-js@<3.4 is no longer maintained and not recommended for usage due to the number of issues. Because of the V8 engine whims, feature detection in old core-js versions could cause a slowdown up to 100x even if nothing is polyfilled. Please, upgrade your dependencies to the actual version of core-js.
+deprecate @parcel/watcher@1.12.1 › chokidar@^2.1.5 Chokidar 2 does not receive security updates since 2019. Upgrade to chokidar 3 with 15x fewer dependencies
+deprecate htmlnano@0.2.9 › svgo@^1.3.2 This SVGO version is no longer supported. Upgrade to v2.x.x.
+deprecate @parcel/watcher@1.12.1 › chokidar@2.1.8 › fsevents@^1.2.7 fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+deprecate htmlnano@0.2.9 › uncss@0.17.3 › request@^2.88.0 request has been deprecated, see https://github.com/request/request/issues/3142
+deprecate micromatch@3.1.10 › snapdragon@0.8.2 › source-map-resolve@^0.5.0 See https://github.com/lydell/source-map-resolve#deprecated
+deprecate node-libs-browser@2.2.1 › url@0.11.0 › querystring@0.2.0 The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+deprecate htmlnano@0.2.9 › uncss@0.17.3 › request@2.88.2 › har-validator@~5.1.3 this library is no longer supported
+deprecate micromatch@3.1.10 › snapdragon@0.8.2 › source-map-resolve@0.5.3 › urix@^0.1.0 Please see https://github.com/lydell/urix#deprecated
+deprecate micromatch@3.1.10 › snapdragon@0.8.2 › source-map-resolve@0.5.3 › source-map-url@^0.4.0 See https://github.com/lydell/source-map-url#deprecated
+deprecate micromatch@3.1.10 › snapdragon@0.8.2 › source-map-resolve@0.5.3 › resolve-url@^0.2.1 https://github.com/lydell/resolve-url#deprecated
+deprecate htmlnano@0.2.9 › uncss@0.17.3 › request@2.88.2 › uuid@^3.3.2 Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+deprecate htmlnano@0.2.9 › uncss@0.17.3 › jsdom@14.1.0 › request-promise-native@^1.0.5 request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142
+All packages installed (726 packages installed from npm registry, used 58s(network 31s), speed 613.69KB/s, json 651(3.55MB), tarball 14.91MB)
+[parcel-bundler@1.12.5] link /usr/local/bin/parcel@ -> /usr/local/lib/node_modules/parcel-bundler/bin/cli.js
